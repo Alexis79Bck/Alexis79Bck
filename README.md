@@ -1,5 +1,10 @@
 ### :wave: Hello to Everyone! :wave:
-###  <h3> I'm Alexis Mata and I'm a Developer </h3>
+
+<img src="FullStack02.jpg" height="300" width="100%"/>
+
+### <h3> I'm Alexis Mata and I'm a Developer </h3>
+
+
 
 I am passionate about developing and coding, as well as growing in knowledge when it comes to technological tools. 
 
