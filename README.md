@@ -18,4 +18,23 @@ However I have worked with MySql on personal projects and exercises. As well as 
 
 I can say about me, that I have been studying in a self-taught way other tools like Angular, Ionic, Vue.Js.
 
-
+<h3>:wave: My Skills :wave:</h3> 
+Language:
+<div style="display:flex; flex-direction:row">
+<img src="https://img.shields.io/badge/PHP-Advanced-777BB4?style=flat&logo=php&labelColor=e9e9ff"/>
+<img src="https://img.shields.io/badge/HTML5-Advanced-E34F26?style=flat&logo=html5&labelColor=e9e9ff"/>
+<img src="https://img.shields.io/badge/CSS3-Intermediate-1572B6?style=flat&logo=css3&labelColor=e9e9ff"/>
+<img src="https://img.shields.io/badge/JS-Basic-FC4C02?style=flat&logo=javascript&logoColor=FC4C02&labelColor=e9e9ff"/>
+</div>
+<hr />
+FrameWorks:
+<div style="display:flex; flex-direction:row">
+<img src="https://img.shields.io/badge/Laravel 6/7/8-Intermediate-FF2D20?style=flat&logo=laravel&labelColor=e9e9ff"/>
+<img src="https://img.shields.io/badge/Laravel Livewire-Intermediate-E4637C?style=flat&logo=livewire&logoColor=E4637C&labelColor=e9e9ff"/>
+<img src="https://img.shields.io/badge/Bootstrap 4/5-Intermediate-525ddc?style=flat&logo=livewire&logoColor=525ddc&labelColor=e9e9ff"/>
+<img src="https://img.shields.io/badge/Semantic UI-Intermediate-35bdb2?style=flat&labelColor=e9e9ff"/>
+<img src="https://img.shields.io/badge/VueJS-Basic-4FC08D?style=flat&logo=vuedotjs&labelColor=e9e9ff"/>
+<img src="https://img.shields.io/badge/JQuery-Basic-0769ad?style=flat&logo=jquery&logoColor=000000&labelColor=e9e9ff"/>
+<img src="https://img.shields.io/badge/JS-Basic-FC4C02?style=flat&logo=javascript&logoColor=FC4C02&labelColor=e9e9ff"/>
+</div>
+<hr />
