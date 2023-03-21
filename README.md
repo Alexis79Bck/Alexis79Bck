@@ -1,7 +1,4 @@
-<img src="FullStack02.jpg" height="350" width="100%"/>
-
-### <p align="center"> :wave: Hello to Everyone! :wave: </p>
-# <p align="center"> I'm Alexis Mata and I'm a Developer </p>
+![Alexis Mata Logo](Alexis-Mata-Logo.png) 
 
 <p align="center">
 <img src="https://img.shields.io/badge/Available-On Fire-0066CC?style=plastic&logo=fireship&logoColor=FFCA28&labelColor=0A0A23"/>
@@ -12,6 +9,7 @@
 <a href="Alexis+Eduardo+Mata+CV.pdf"><img src="https://img.shields.io/badge/Resume-SP-CA0404?style=plastic&logo=readthedocs&logoColor=CA0404&labelColor=0A0A23"/></a>
 </p>
 
+## :wave: Hello to Everyone! :wave:
 
 I am passionate about developing and coding, as well as growing in knowledge when it comes to technological tools. 
 
