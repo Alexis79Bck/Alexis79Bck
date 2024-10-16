@@ -13,11 +13,11 @@
 
 I am passionate about developing and coding, as well as growing in knowledge when it comes to technological tools. 
 
-I am located in Venezuela, and currently developing a software solution based on the Laravel Framework (from 6.x to 8.x), using several dependencies for its creation, as well as Laravel Livewire, Laravel UI Bootstrap, Laravel Permissions, etc. As well as using Microsoft SQL Server as the robust database manager. 
+I am located in Venezuela, and currently developing a software solution based on the Laravel Framework (from 6.x to 11.x), using several dependencies for its creation, as well as Laravel Livewire, Laravel UI Bootstrap, Laravel Permissions, etc.  and relational databases like MySQL, SQLite, Microsoft SQL Server, etc. 
 
-However I have worked with MySql on personal projects and exercises. As well as I have been able to work a little with WordPress for the creation of Web Sites.
+However, I have worked with MySQL on personal projects and exercises, and I have also been able to work a little with WordPress to create websites.
 
-I can say about me, that I have been studying in a self-taught way other tools like Angular, Ionic, Vue.Js.
+I can say that I have been studying other tools, such as Angular, Ionic, and Vue.Js, in a self-taught way.
 
 <h3>:wave: My Skills :wave:</h3> 
 Language:
