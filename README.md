@@ -1,4 +1,4 @@
-![Alexis Mata Logo](Alexis-Mata-Logo.png) 
+![Alexis Mata Logo](Alexis-Portada.png) 
 
 <p align="center">
 <img src="https://img.shields.io/badge/Available-On Fire-0066CC?style=plastic&logo=fireship&logoColor=FFCA28&labelColor=0A0A23"/>
@@ -6,7 +6,7 @@
 <a href="https://walink.co/1d9752"><img src="https://img.shields.io/badge/WhatsApp-+584148726426-11D100?style=plastic&logo=whatsapp&labelColor=0A0A23"/></a>
 <a href="https://www.linkedin.com/in/alexis-eduardo-mata/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=plastic&logo=linkedin&labelColor=0A0A23"/></a>
 <a href="Alexis Eduardo Mata-Eng Resume.pdf"><img src="https://img.shields.io/badge/Resume-EN-EB844E?style=plastic&logo=readthedocs&logoColor=EB844E&labelColor=0A0A23"/></a>
-<a href="Alexis+Eduardo+Mata+CV.pdf"><img src="https://img.shields.io/badge/Resume-SP-CA0404?style=plastic&logo=readthedocs&logoColor=CA0404&labelColor=0A0A23"/></a>
+<a href="Alexis-Eduardo-Mata-CV-Resume-Agosto%202025-2.pdf"><img src="https://img.shields.io/badge/Resume-SP-CA0404?style=plastic&logo=readthedocs&logoColor=CA0404&labelColor=0A0A23"/></a>
 </p>
 
 ---
