@@ -9,15 +9,27 @@
 <a href="Alexis+Eduardo+Mata+CV.pdf"><img src="https://img.shields.io/badge/Resume-SP-CA0404?style=plastic&logo=readthedocs&logoColor=CA0404&labelColor=0A0A23"/></a>
 </p>
 
-## :wave: Hello to Everyone! :wave:
+---
 
-I am passionate about developing and coding, as well as growing in knowledge when it comes to technological tools. 
+## 👋 Hola / Hello
 
-I am located in Venezuela, and currently developing a software solution based on the Laravel Framework (from 6.x to 11.x), using several dependencies for its creation, as well as Laravel Livewire, Laravel UI Bootstrap, Laravel Permissions, etc.  and relational databases like MySQL, SQLite, Microsoft SQL Server, etc. 
+Soy un desarrollador backend de Venezuela con más de 5 años de experiencia especializado en el ecosistema **PHP y Laravel**. Me apasiona crear **soluciones eficientes, escalables y fáciles de mantener**, desde API RESTful robustas hasta estructuras de bases de datos optimizadas. Me encanta convertir problemas complejos en software sencillo y eficaz.
 
-However, I have worked with MySQL on personal projects and exercises, and I have also been able to work a little with WordPress to create websites.
+- 🔭 Actualmente trabajo en **proyectos independientes** y perfecciono mis habilidades en **Vue.js**.
+- 🌱 Estoy aprendiendo **arquitectura de software, TDD y profundizando mis conocimientos de Vue.js**.
+- 👯 Busco colaborar en **proyectos Laravel de código abierto** o en startups innovadoras.
+- 💼 Mi experiencia incluye: **Laravel, PHP, MySQL, API REST, Git**.
 
-I can say that I have been studying other tools, such as Angular, Ionic, and Vue.Js, in a self-taught way.
+---
+
+I'm a Backend Developer from Venezuela with over 5 years of experience specializing in the **PHP and Laravel** ecosystem. I'm passionate about building **efficient, scalable, and maintainable solutions**, from robust RESTful APIs to optimized database structures. I thrive on turning complex problems into simple and effective software.
+
+- 🔭 I’m currently working on **freelance projects** and sharpening my skills in **Vue.js**.
+- 🌱 I’m learning **Software Architecture, TDD, and Deepening my Vue.js knowledge**.
+- 👯 I’m looking to collaborate on **open-source Laravel projects** or innovative startups.
+- 💼 My expertise includes: **Laravel, PHP, MySQL, API REST, Git**.
+
+---
 
 <h3>:wave: My Skills :wave:</h3> 
 Language:
