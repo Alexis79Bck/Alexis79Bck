@@ -42,12 +42,10 @@ Language:
 <hr />
 FrameWorks:
 <div style="display:flex; flex-direction:row">
-<img src="https://img.shields.io/badge/Laravel +7-Intermediate-FF2D20?style=flat&logo=laravel&labelColor=e9e9ff"/>
+<img src="https://img.shields.io/badge/Laravel +9-Intermediate-FF2D20?style=flat&logo=laravel&labelColor=e9e9ff"/>
 <img src="https://img.shields.io/badge/Laravel Livewire-Intermediate-E4637C?style=flat&logo=livewire&logoColor=E4637C&labelColor=e9e9ff"/>
 <img src="https://img.shields.io/badge/Bootstrap 4/5-Intermediate-525ddc?style=flat&logo=bootstrap&logoColor=525ddc&labelColor=e9e9ff"/>
-<img src="https://img.shields.io/badge/Semantic UI-Intermediate-35bdb2?style=flat&labelColor=e9e9ff"/>
 <img src="https://img.shields.io/badge/VueJS-Basic-4FC08D?style=flat&logo=vuedotjs&labelColor=e9e9ff"/>
-<img src="https://img.shields.io/badge/JQuery-Basic-0769ad?style=flat&logo=jquery&logoColor=000000&labelColor=e9e9ff"/>
 </div>
 <hr />
 Databases Managers:
@@ -59,7 +57,7 @@ Databases Managers:
 <hr />
 IDE Enviroment & Dev Tools:
 <div style="display:flex; flex-direction:row">
-<img src="https://img.shields.io/badge/VS Code- -e9e9ff?style=flat&logo=visualstudiocode&logoColor=007acc&labelColor=e9e9ff"/>
+<img src="https://img.shields.io/badge/VSCode- -e9e9ff?style=flat&logo=visualstudiocode&logoColor=007acc&labelColor=e9e9ff"/>
 <img src="https://img.shields.io/badge/Postman- -e9e9ff?style=flat&logo=postman&logoColor=ff6c37&labelColor=e9e9ff"/>
 <img src="https://img.shields.io/badge/Github- -e9e9ff?style=flat&logo=github&logoColor=181717&labelColor=e9e9ff"/>
 </div>
